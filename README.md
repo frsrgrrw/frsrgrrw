@@ -1,7 +1,7 @@
 # README.md
 
-- 👋 Hi, I’m @frsrgrrw I'm a PhD student in Edinburgh, Scotland. 
-- 👀 I’m interested in evolutionary computing, program synthesis and software improvement, and machine learing and robotics broadly.
+- 👋 Hello. I’m @frsrgrrw 
+- 👀 I’m interested in agent based learning, evolutionary computing, DL and robotics broadly.
 - 📫 You can contact me at [fg28@hw.ac.uk](mailto:fg28@hw.ac.uk)
 
 <!---
